@@ -1,4 +1,4 @@
-A Discord bot that delivers trivia questions and evaluates the correctness of answers, using `discord.py`. The bot also manages a profile for each server member for various question categories.
+A Discord bot built with Python 3 that delivers trivia questions and evaluates the correctness of answers, using `discord.py`. The bot also manages a profile for each server member for various question categories.
 
 **Instructions**
 1. Clone or fork this repository and make sure you have the files locally
